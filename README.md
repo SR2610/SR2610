@@ -1,6 +1,6 @@
 ## Hey!
 
-I'm a Game Developer currently working at [NSC Creative](https://nsccreative.com/) at the National Space Centre in Leicester working on museum exhebitions, XR stuff and other fun things.
+I'm a Game Developer currently working at [NSC Creative](https://nsccreative.com/) at the National Space Centre in Leicester working on museum exhibitions, XR stuff and other fun things.
 
 
 ## Projects
