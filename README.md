@@ -1,6 +1,6 @@
 ## Hey!
 
-I'm a Game Developer currently working at [NSC Creative](https://nsccreative.com/) at the National Space Centre in Leicester working on museum exhibitions, XR stuff and other fun things.
+I'm a Senior Developer working at [NSC Creative](https://nsccreative.com/) at the National Space Centre in Leicester working on museum exhibitions, XR stuff and other fun things.
 
 
 ## Projects
@@ -9,7 +9,9 @@ I'm a Game Developer currently working at [NSC Creative](https://nsccreative.com
 
 - 🌍 [Home Planet](https://spacecentre.co.uk/blog-post/home-planet/) - Exhibition at the National Space Centre focusing on Earth Observation and Climate Change.  Featuring an interactive floor projection, touch screen interactives exploring satellite imagery and orbits, and more.  [Full details on my website](https://sr26.io/projects/homeplanet/)!
 
-- 🎉 [Creeper Confetti](https://github.com/SR2610/Creeper-Confetti-Forge-Edition) - A mod for Minecraft that replaces creeper explosions with confetti!  Maintained since 2014 with **8 Million Downloads** and counting!  Get it over on [CurseForge](https://www.curseforge.com/minecraft/mc-mods/creeper-confetti).
+- 🎉 [Creeper Confetti](https://github.com/SR2610/Creeper-Confetti-Forge-Edition) - A mod for Minecraft that replaces creeper explosions with confetti!  Maintained since 2014 with **10 Million Downloads** and counting!  Get it over on [CurseForge](https://www.curseforge.com/minecraft/mc-mods/creeper-confetti).
+
+- 🎚️[OSC Launcher](https://github.com/SR2610/OSC-Launcher) - A small tray tool to run exes / batch files from OSC Commands.
 
 - 🧠 [AI for Games](https://github.com/SR2610/AI-For-Games) - State Machine AI Implementation in Unity - University Assignment.
 
