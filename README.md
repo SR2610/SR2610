@@ -11,7 +11,7 @@ I'm a Senior Developer working at [NSC Creative](https://nsccreative.com/) at th
 
 - 🎉 [Creeper Confetti](https://github.com/SR2610/Creeper-Confetti-Forge-Edition) - A mod for Minecraft that replaces creeper explosions with confetti!  Maintained since 2014 with **10 Million Downloads** and counting!  Get it over on [CurseForge](https://www.curseforge.com/minecraft/mc-mods/creeper-confetti).
 
-- 🎚️[OSC Launcher](https://github.com/SR2610/OSC-Launcher) - A small tray tool to run exes / batch files from OSC Commands.
+- 🎚️ [OSC Launcher](https://github.com/SR2610/OSC-Launcher) - A small tray tool to run exes / batch files from OSC Commands.
 
 - 🧠 [AI for Games](https://github.com/SR2610/AI-For-Games) - State Machine AI Implementation in Unity - University Assignment.
 
